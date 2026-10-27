@@ -5,6 +5,14 @@ reliable star schema.
 
 ## Project Setup
 
+## Screenshots
+
+### Original Data Model
+![Original Data Model](Data%20Modeling/original_model.png)
+
+### Star Schema Data Model
+![Star Schema Data Model](Data%20Modeling/star_schema.png)
+
 ### Phases
 
 1.  **Prepare & Explore** --- Understand the source data and existing
